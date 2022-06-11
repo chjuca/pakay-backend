@@ -8,7 +8,6 @@ import com.example.pakaybooking.repository.BookingRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import lombok.var;
 
 @Service
 public class BookingService implements ImpBookingService {
