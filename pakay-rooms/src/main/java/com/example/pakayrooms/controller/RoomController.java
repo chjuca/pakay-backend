@@ -13,6 +13,7 @@ import com.example.pakayrooms.service.ImpRoomService;
 @RestController
 @RequestMapping("api/room")
 public class RoomController {
+    
     @Autowired
     private ImpRoomService roomService;
 
