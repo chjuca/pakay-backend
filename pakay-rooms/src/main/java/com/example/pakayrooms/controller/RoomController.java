@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.pakayrooms.service.ImpRoomService;
 
 @RestController
-@RequestMapping("api/room")
+@RequestMapping("/api/room")
 public class RoomController {
     
     @Autowired
