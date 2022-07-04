@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>pakay-registry</artifactId>
+	<artifactId>pakay-</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>pakay-registry</name>
+	<name>pakay-</name>
 	<description>pakay-gateway backend</description>
 	<properties>
 		<java.version>1.8</java.version>
